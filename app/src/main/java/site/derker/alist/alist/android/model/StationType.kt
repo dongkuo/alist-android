@@ -1,0 +1,41 @@
+package site.derker.alist.alist.android.model
+
+/**
+ * 站点类型
+ */
+enum class StationType {
+    IPTV,
+    LOCAL,
+    DRIVE_115,
+    DRIVE_123,
+    DRIVE_139,
+    DRIVE_189,
+    DRIVE_189_PC,
+    ALIST_V2,
+    ALIST_V3,
+    ALI_DRIVE,
+    BAIDU_DRIVE,
+    BAIDU_PHOTO,
+    CLOUDREVE,
+    FTP,
+    GOOGLE_DRIVE,
+    GOOGLE_PHOTO,
+    LANZOU,
+    MEDIATRACK,
+    MEGA,
+    ONEDRIVE,
+    PIKPAK,
+    PIKPAK_SHARE,
+    QUARK,
+    S3,
+    SEAFILE,
+    SFTP,
+    SMB,
+    TEAMBITION,
+    TERABOX,
+    THUNDER,
+    USS,
+    VIRTUAL,
+    WEBDAV,
+    YANDEX_DISK,
+}
